@@ -1,6 +1,6 @@
 {
-  "name": "geofencing-ui",
-  "version": "0.0.0",
+  "name": "cloudlet-geofencing",
+  "version": "0.1.1-SNAPSHOT",
   "keywords": [
     "hawtio"
   ],
